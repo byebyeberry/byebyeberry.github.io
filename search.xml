@@ -41,6 +41,12 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 ]]></content>
   </entry>
   <entry>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[
+]]></content>
+  </entry>
+  <entry>
     <title>archives</title>
     <url>/archives/index.html</url>
     <content><![CDATA[
@@ -80,17 +86,6 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
   </tr>
 </table>
 ]]></content>
-  </entry>
-  <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[
-]]></content>
-  </entry>
-  <entry>
-    <title>tags</title>
-    <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>友链页面</title>
@@ -133,5 +128,10 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 {% endnote %}
 ]]></content>
+  </entry>
+  <entry>
+    <title>tags</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
